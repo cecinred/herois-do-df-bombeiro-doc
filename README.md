@@ -16,7 +16,6 @@ até se tornar **Bombeiro Honorário do DF**.
 |---|---|---|
 | 🎮 **Jogo** | [`jogo/`](jogo/) | Código-fonte completo + uma pasta por fase explicada |
 | 📚 **Documentação** | [`documentacao/`](documentacao/) | Artefatos de avaliação (gestão, arquitetura, UX, segurança, cloud...) |
-| 🚀 **Guia** | [`COMO_SUBIR_NO_GITHUB.md`](COMO_SUBIR_NO_GITHUB.md) | Passo a passo para publicar no GitHub |
 
 ---
 
