@@ -1,7 +1,7 @@
 # 🤖 Uso de IA no Desenvolvimento (Claude)
 
 Documenta, com **transparência**, como a IA (Claude, da Anthropic) foi usada para
-apoiar o desenvolvimento — boa prática acadêmica e de engenharia.
+apoiar o desenvolvimento — boa prática acadêmica.
 
 ## 🧭 Framework norteador: Prompt Engineering (Anthropic) + Responsible AI
 
@@ -21,31 +21,20 @@ apoiar o desenvolvimento — boa prática acadêmica e de engenharia.
 
 ---
 
-## 🛠️ Onde a IA apoiou (exemplos a preencher)
+## 🛠️ Onde a IA apoiou (em andamento)
 | Área | Como ajudou | Revisão do grupo |
 |---|---|---|
-| Estrutura do jogo (máquina de estados) | sugestão de organização | testada e adaptada |
+| Estrutura do jogo | sugestão de organização do código base | testada e adaptada |
 | Minigames das fases | lógica inicial dos `Init/Upd/Draw` | ajustada (dificuldade, posições) |
-| Correção de bugs | apontar travamentos (ex.: índice do quiz) | validada compilando/jogando |
+| Design das fases | construção dos cenários de Brasília | ajustada (posições, tamanho)  |
 | Documentação | rascunho de README e diagramas | revisada e completada |
 
-> Preencher com os casos reais do grupo.
 
 ---
 
-## ✍️ Boas práticas de prompt (resumo)
-- **Seja específico:** diga linguagem, biblioteca, objetivo e restrições.
-- **Dê contexto/exemplos:** anexe o código atual e descreva o resultado esperado.
-- **Peça em partes:** uma tarefa por vez é mais fácil de validar.
-- **Defina o formato:** "responda só com o trecho alterado", "explique em tópicos".
-- **Itere:** teste, relate o erro exato e peça correção.
 
-## 📋 Registro de uso (template)
+## 📋 Registro de uso (em andamento)
 | Data | Objetivo do prompt | Resultado | O que o grupo mudou |
 |---|---|---|---|
 | | | | |
 
-## ⚖️ Ética e limites
-- Conferir **fatos** (ex.: dados do CBMDF) em fontes oficiais.
-- Não inserir dados pessoais sensíveis nos prompts.
-- Citar a IA como **ferramenta de apoio**, mantendo a autoria do grupo.
