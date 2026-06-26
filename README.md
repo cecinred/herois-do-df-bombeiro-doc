@@ -82,8 +82,8 @@ Ao concluir as 10 fases, o **Museu dos Bombeiros** é desbloqueado no menu.
 
 ## 👩‍💻 Equipe
 
-Amanda Soares · Cecilia Alemi · Eduarda Moura · Isabelle Reis · Mariana Nogueira ·
-Maria Jhuliana Brito · Thiago Campêlo.
+Amanda Soares · [Cecilia Alemi](https://github.com/cecinred) · [Eduarda Moura](https://github.com/eduardamr14) · [Isabelle Reis](https://github.com/isabellereiis) · [Mariana Nogueira](https://github.com/nmmari) ·
+[Maria Jhuliana Brito](https://github.com/mariajhulianabrito-png) · Thiago Campêlo.
 
 Inspirado no trabalho do **Corpo de Bombeiros Militar do Distrito Federal**.
 
